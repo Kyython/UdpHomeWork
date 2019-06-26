@@ -1,0 +1,14 @@
+﻿<Window x:Class="Client_Udp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Client_Udp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Image Name="screenshotImage" HorizontalAlignment="Left" Height="220" VerticalAlignment="Top" Width="366"/>
+        <Separator HorizontalAlignment="Left" Height="101" Margin="0,235,0,0" VerticalAlignment="Top" Width="792"/>
+        <Button Content="ENTER" Click="EnterButtonClick" FontSize="30" Background="LightGray" HorizontalAlignment="Left" Margin="316,303,0,0" VerticalAlignment="Top" Width="134" Height="55"/>
+    </Grid>
+</Window>

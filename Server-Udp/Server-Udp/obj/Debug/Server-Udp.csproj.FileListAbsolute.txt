@@ -1,0 +1,7 @@
+C:\Users\ерика.CORP.000\source\repos\Server-Udp\Server-Udp\bin\Debug\Server-Udp.exe.config
+C:\Users\ерика.CORP.000\source\repos\Server-Udp\Server-Udp\bin\Debug\Server-Udp.exe
+C:\Users\ерика.CORP.000\source\repos\Server-Udp\Server-Udp\bin\Debug\Server-Udp.pdb
+C:\Users\ерика.CORP.000\source\repos\Server-Udp\Server-Udp\obj\Debug\Server-Udp.csprojAssemblyReference.cache
+C:\Users\ерика.CORP.000\source\repos\Server-Udp\Server-Udp\obj\Debug\Server-Udp.csproj.CoreCompileInputs.cache
+C:\Users\ерика.CORP.000\source\repos\Server-Udp\Server-Udp\obj\Debug\Server-Udp.exe
+C:\Users\ерика.CORP.000\source\repos\Server-Udp\Server-Udp\obj\Debug\Server-Udp.pdb
